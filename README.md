@@ -35,11 +35,11 @@ contains examples, tests and the this documentation. By using PyPI, you will be 
 ![alt iviny](https://github.com/MortadhaDAHMANI/Py-MQTT-Paho/raw/master/)
 -->
 
-
+<!---
 ```diff
 - NOTICE: Be prepared to handle huge power consumption with peek up to 2A. Maximum voltage on UART in this module is 2.8V. Higher voltage will kill the module.
 ```
-
+-->
 ### Useful links
 * [LoRa](https://nettigo.eu/attachments/386 "AT Commands")
 
