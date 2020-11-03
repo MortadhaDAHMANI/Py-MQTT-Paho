@@ -65,7 +65,7 @@ If this project help you, you can give me a tip ;)
 <a href="https://www.linkedin.com/in/mortadhadahmani" rel="In"> <img src="https://github.com/MortadhaDAHMANI/Py-SIM800L/raw/master/in2.jpg" alt="In" height="40"></a>
 
 ### Revision History
-* Initial Release : 25 Mars 2020
+* Initial Release : 25 August 2020
 
 ### License
-* _Py-SIM800L_ is distributed under the **LGPL** version 3 license.
+* _Py-MQTT-Paho_ is distributed under the **LGPL** version 3 license.
